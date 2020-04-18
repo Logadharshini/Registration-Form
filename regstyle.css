@@ -1,0 +1,83 @@
+.header
+{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    text-align:  center;
+}
+.text1
+{
+    margin-left: 10px;
+}
+.name
+{
+    margin-left: 70px;
+    width: 300px;
+}
+.text2
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.dob
+{
+    margin-left: 25px;
+    width: 300px;
+}
+.text3
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.email
+{
+    margin-left: 70px;
+    width: 300px;
+}
+.text4
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.gender
+{
+    margin-left: 65px;
+    width: 300px;
+}
+.text5
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.address
+{
+    margin-left: 63px;
+    height: 150px;
+    width: 300px;
+}
+.text6
+{
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.mob
+{
+    margin-left: 65px;
+    width: 300px;
+}
+.text7
+{
+    margin-left:140px;
+    margin-top: 70px;
+    
+}
+.register
+{
+    font-style: italic;
+    height: 25px;
+}
+.cancel
+{
+    margin-left: 40px;
+    font-style: italic;
+    height: 25px;
+}
